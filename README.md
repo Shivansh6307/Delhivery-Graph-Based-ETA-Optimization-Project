@@ -15,6 +15,7 @@ Logistics networks lose money to SLA breaches and inflated delivery times, but s
 4. **FTL vs. Carting classifier** — predicts optimal route type using graph and trip features.
 5. **Strategy memo** — auto-generates a one-page executive memo (KPIs, top bottleneck hubs, recommendations) as a rendered PNG.
 6. <img width="1280" height="572" alt="image" src="https://github.com/user-attachments/assets/a73440e4-67f3-41ef-b6cd-abf38140e808" />
+<img width="1280" height="401" alt="image" src="https://github.com/user-attachments/assets/ded077ef-85c0-41d8-8ba9-bb2ee0ee6ca0" />
 
 
 ## Results
