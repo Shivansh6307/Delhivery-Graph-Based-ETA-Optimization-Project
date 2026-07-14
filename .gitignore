@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Generated data & outputs (regenerate via `python main.py`)
+data/*.csv
+outputs/*.png
+outputs/*.csv
+outputs/*.pkl
+!data/.gitkeep
+!outputs/.gitkeep
+
+# OS/editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
