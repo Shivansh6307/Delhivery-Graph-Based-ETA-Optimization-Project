@@ -1,5 +1,6 @@
 # Delhivery Graph-Based ETA Optimization
 
+
 A consulting-style logistics analytics project built for **Summer Analytics 2026** (IIT Guwahati Consulting & Analytics Club). It models a Delhivery-style logistics network as a graph, identifies operational bottleneck hubs, and shows that network-topology features meaningfully improve delivery ETA prediction over a pure distance/time baseline.
 
 ## Problem
@@ -13,6 +14,8 @@ Logistics networks lose money to SLA breaches and inflated delivery times, but s
 3. **ETA modeling** — compares a baseline Ridge/Gradient Boosting model (trip-level features only) against graph-enhanced GBM/Random Forest models (adding hub centrality + edge delay history).
 4. **FTL vs. Carting classifier** — predicts optimal route type using graph and trip features.
 5. **Strategy memo** — auto-generates a one-page executive memo (KPIs, top bottleneck hubs, recommendations) as a rendered PNG.
+6. <img width="1280" height="572" alt="image" src="https://github.com/user-attachments/assets/a73440e4-67f3-41ef-b6cd-abf38140e808" />
+
 
 ## Results
 
